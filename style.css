@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.nav-img{
+    width: 10%;
+    height: 5%;
+    margin: 30px 0 30px 90px;
+   
+}
+.sec-1
+{
+    display: flex;
+   
+}
+.nav-sec{
+   padding-left: 700px;
+   padding-top: 20px;
+
+
+}
+.nav-sec-2{
+    display: flex;
+    padding-top: 5px;
+}
+.nav-sec-1 a{
+    color: black;
+    text-decoration: none;
+}
+.nav-sec-1 a:hover{
+    text-decoration: underline;
+}
+img:hover{
+    transform: scale(1.1);
+}
+img{
+    transition: transform .7s;
+}
+.foot li a{
+    color: white;
+    text-decoration: none;
+    
+}
+.foot li a:hover {
+    text-decoration: underline;
+}
+li{
+    list-style-type: none;
+}
+.foot{
+   padding-left: 100px;
+   padding-top: 40px;
+   line-height: 2;
+}
